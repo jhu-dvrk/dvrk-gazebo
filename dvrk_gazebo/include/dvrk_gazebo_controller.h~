@@ -20,6 +20,7 @@
 #include <gazebo.hh>
 #include <physics/physics.hh>
 #include <stdio.h>
+#include "dv_gazebo_plugins/SetJointState.h"
 
 
 namespace gazebo
